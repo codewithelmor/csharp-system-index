@@ -58,3 +58,7 @@ class Program
 n this example, the range ```1..^1``` represents a subset of the array starting from index 1 and going up to, but not including, the last element. The ```...``` symbol is a shorthand for creating a range. The ```^1``` is used to represent the last index.
 
 Note that the range syntax is inclusive on the start and exclusive on the end, so ```1..^1``` includes elements at indices 1, 2, and 3. The result is a subset of the original array.
+
+Resources:
+
+[Did You Use The C# Array Index Feature?](https://www.youtube.com/shorts/sh6GcmQHGMM)
